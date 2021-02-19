@@ -1,4 +1,6 @@
-# networkx-tutorial: About the project
+# networkx-tutorial
+
+## About the project
 This guide can help you start working with networkx
 
 Topic: fundamentals of network analysis in python
